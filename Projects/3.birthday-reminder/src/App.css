@@ -49,6 +49,7 @@ main{
 
 .container .person{
     display: flex;
+    flex-direction: row;
     margin-bottom: 20px;
 }
 
@@ -71,6 +72,7 @@ main{
     letter-spacing: 1px;
     margin: 2rem auto 0 auto;
     border-radius: var(--border-radius);
+    cursor: pointer;
 }
 
 .container .person .name{
@@ -78,4 +80,18 @@ main{
     flex-direction: column;
     justify-content: center;
     margin: 10px;
+}
+
+.container .person span{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:disabled{
+    background-color: dimgrey;
+    color: linen;
+    opacity: 1;
+    cursor: not-allowed;
 }
