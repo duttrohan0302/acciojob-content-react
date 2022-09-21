@@ -3,7 +3,7 @@
 ## [Git Repo](https://github.com/duttrohan0302/acciojob-content-react)
 
 ## Content
-1. Intro to React - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/1.IntroToReact/) [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/1.IntroToReact/README.md)
+1. Intro to React - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/1.IntroToReact/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/1.IntroToReact/README.md)
 
 ## Projects
 
