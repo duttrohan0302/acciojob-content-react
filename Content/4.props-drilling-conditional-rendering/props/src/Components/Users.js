@@ -3,7 +3,7 @@ import User from "./User"
 
 function Users(props){
 
-    const {users} = props
+    const {users,count} = props
     return(
         <>
             <h1 className="d-flex justify-content-center">Users</h1>
@@ -17,7 +17,7 @@ function Users(props){
                 </thead>
                 <tbody>
                     {
-                        users.map((user)=><User key={user.id} user={user} />)
+                        users.map((user)=><User key={user.id} user={user} count={count} />)
                     }
                 </tbody>
             </table>

@@ -59,7 +59,7 @@ class App extends React.Component {
     return (
       <div className="App">
           <Counter count={this.state.count} userCount={this.state.totalUsers} incrementCount={this.incrementCount} decrementCount={this.decrementCount}/>
-          <Users users={this.state.users.filter((user,index)=>index<this.state.count)} />
+          <Users users={this.state.users} count={this.state.count} />
       </div>
     );
   }
