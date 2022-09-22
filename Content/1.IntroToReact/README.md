@@ -86,7 +86,7 @@
 - If you have to write JavaScript inside HTML, use `{` anything you write inside this will be treated as javaScript expression`}`
 - Any errors that are present can be seen on the terminal where react app is running or on the console in browser and sometimes on the browser page itself
 - Inside the return statement, there must be only 1 parent HTML tag
-
+- ### You don't need to install using create-react-app everytime, you can simply copy all files and folders (expect node_modules), to a different folder, run nm install there & voila your new app is created
 
 
 
