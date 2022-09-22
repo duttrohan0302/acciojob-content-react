@@ -6,7 +6,7 @@
 1. Intro to React - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/1.IntroToReact/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/1.IntroToReact/README.md)
 2. Components & JSX - [Components](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/2.Components-JSX/components) | [JSX](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/2.Components-JSX/jsx) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/2.Components-JSX/README.md)
 3. State, Props, Nested Components & Virtual DOM - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/3.State-Props-Virtual-DOM/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/3.State-Props-Virtual-DOM/README.md)
-4. Props Example, Drilling & Conditional Rendering - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/4.props-drilling-conditional-rendering/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/props-drilling-conditional-rendering/README.md)
+4. Props Example, Drilling & Conditional Rendering - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/4.props-drilling-conditional-rendering/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/4.props-drilling-conditional-rendering/README.md)
 
 ## Projects
 
