@@ -10,6 +10,8 @@ function App() {
         <div className="title">
           <h2>Our Reviews</h2>
           <div className="underline"></div>
+          <small>Click on the quotes icon to make the review disappear</small>
+
         </div>
         <Reviews />
       </section>
