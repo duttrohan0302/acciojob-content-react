@@ -16,3 +16,4 @@
 3. Birthday Reminder - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/3.birthday-reminder) [Live Demo](https://acciojob-content-birthday-reminder.netlify.app)
 4. Tours - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/4.tours) [Live Demo](https://acciojob-content-tours.netlify.app)
 5. Reviews - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/5.reviews) | [Live Demo](https://acciojob-content-reviews.netlify.app)
+5. Menu - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/6.menu) | [Live Demo](https://acciojob-content-menu.netlify.app)
