@@ -10,7 +10,7 @@ const menu = [
   {
     id: 2,
     title: 'diner double',
-    category: 'lunch',
+    category: 'dinner',
     price: 13.99,
     img: './images/item-2.jpeg',
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
@@ -50,7 +50,7 @@ const menu = [
   {
     id: 7,
     title: 'bacon overflow',
-    category: 'breakfast',
+    category: 'brunch',
     price: 8.99,
     img: './images/item-7.jpeg',
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
@@ -66,7 +66,7 @@ const menu = [
   {
     id: 9,
     title: 'quarantine buddy',
-    category: 'shakes',
+    category: 'dinner',
     price: 16.99,
     img: './images/item-9.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,

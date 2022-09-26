@@ -1,6 +1,6 @@
 import React from "react";
 
-const Categories = ({categories, filterItems}) => {
+const CategoriesAuto = ({categories, filterItems}) => {
 
     return(
         <div className="btn-container">
@@ -20,4 +20,4 @@ const Categories = ({categories, filterItems}) => {
     )
 }
 
-export default Categories;
+export default CategoriesAuto;
