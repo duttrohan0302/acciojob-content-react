@@ -8,6 +8,7 @@
 3. State, Props, Nested Components & Virtual DOM - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/3.State-Props-Virtual-DOM/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/3.State-Props-Virtual-DOM/README.md)
 4. Props Example, Drilling & Conditional Rendering - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/4.props-drilling-conditional-rendering/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/4.props-drilling-conditional-rendering/README.md)
 5. Class Components, React without ES6, Default Props, Intro to Lifecycle Methods - [State, Default Props & Lifecycle Intro](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/5.Class-components/class) | [React Without ES6](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/5.Class-components/react-without-es6) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/5.Class-components/README.md)
+6. Lifecycle Methods - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/6.LifecycleMethods/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/6.LifecycleMethods/README.md)
 
 ## Projects
 
