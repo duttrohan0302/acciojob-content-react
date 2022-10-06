@@ -21,3 +21,4 @@
 5. Reviews - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/5.reviews) | [Live Demo](https://acciojob-content-reviews.netlify.app)
 5. Menu - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/6.menu) | [Live Demo](https://acciojob-content-menu.netlify.app)
 6. useState Example (Todos) - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/7.useState-example) | [Live Demo](https://acciojob-content-usestate-demo.netlify.app)
+7. useEffect Example (Random Quotes) - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/8.useEffect-example) | [Live Demo](https://acciojob-content-useeffect-demo.netlify.app)
