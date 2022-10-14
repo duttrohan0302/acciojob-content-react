@@ -11,9 +11,8 @@
 6. Lifecycle Methods - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/6.LifecycleMethods/) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/6.LifecycleMethods/REAMDE.md)
 7. Functional Component and useState Hook - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/7.Functional-components/functions) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/7.Functional-components/REAMDE.md)
 8. useEffect - [useEffect Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/8.useState-useEffect/useEffect) | [useState UI](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/8.useState-useEffect/useState-example) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/8.useState-useEffect/README.md)
-9. React Router Intro - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/10.React-Router-Intro) | [Demo](https://acciojob-content-router-tut.netlify.app) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/10.React-Router-Tutorial/README.md)
-10. React Router Tutorial - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/9.React-Router-Tutorial) | [Demo](https://acciojob-content-router-intro.netlify.app) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/9.React-Router-Intro/README.md)
-
+9. React Router Intro - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/9.React-Router-Tutorial) | [Demo](https://acciojob-content-router-intro.netlify.app) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/9.React-Router-Intro/README.md)
+10. React Router Tutorial - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/10.React-Router-Intro) | [Demo](https://acciojob-content-router-tut.netlify.app) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/10.React-Router-Tutorial/README.md)
 ## Projects
 
 1. Tabs - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Projects/1.tabs) | [Live Demo](https://acciojob-content-tabs.netlify.app)
