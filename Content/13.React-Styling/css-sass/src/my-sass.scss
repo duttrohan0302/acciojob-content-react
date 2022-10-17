@@ -1,0 +1,10 @@
+$myColor: red;
+$myFont: 'Courier New', Courier, monospace;
+$myFontSize: 18px;
+$myWidth: 680px;
+
+h3{
+    color: $myColor;
+    font-family: $myFont;
+    font-size: $myFontSize;
+}
