@@ -4,6 +4,7 @@ import ContextSolution from './ContextSolution';
 import ReducerProblem from './ReducerProblem';
 import ReducerSolution from './ReducerSolution';
 import ShoppingListUsingReducer from './useReducerExample';
+import CustomHookUsage from './CustomHookUsage';
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
       <ReducerSolution />
       <br />
       <ShoppingListUsingReducer />
+      <h2>Custom Hook Example</h2>
+      <CustomHookUsage />
     </>
   );
 }

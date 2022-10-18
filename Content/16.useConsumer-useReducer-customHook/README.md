@@ -38,3 +38,7 @@ const UserContext = createContext();
 - `useReducer` takes 2 argument, the reducer function and the initial state
 - It returns the state and the dispatch
 - Dispatch is used to call any action of given type, which the reducer function handles
+
+## Custom Hooks
+- We can use the combination of the pre-existing hooks to create our own custom hook
+- Look into UseFetch.js and CustomHookUsage.js in the code to see an example

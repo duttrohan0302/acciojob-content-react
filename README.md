@@ -18,6 +18,7 @@
 13. React CSS, Sass, Boostrap - [CSS & Sass](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/13.React-Styling/css-sass) | [React Bootstrap](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/13.React-Styling/react-bootstrap) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/13.React-Styling/README.md)
 14. Controlled vs Uncontrolled Components - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/14.Controlled-Uncontrolled-Components) | [Comparision](https://acciojob-content-controlled-uncontrolled.netlify.app) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/14.Controlled-Uncontrolled-Components/README.md)
 14. React memo, Hooks- useRef, useMemo, useCallback - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/15.useRef-useMemo-useCallback) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/15.useRef-useMemo-useCallback/README.md)
+15. useConsumer, useReducer & Custom Hooks - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/16.useConsumer-useReducer-customHook) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/16.useConsumer-useReducer-customHook/README.md)
 
 ## Projects
 
