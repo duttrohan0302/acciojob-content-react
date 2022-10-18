@@ -3,6 +3,7 @@ import ContextProblem from './ContextProblem';
 import ContextSolution from './ContextSolution';
 import ReducerProblem from './ReducerProblem';
 import ReducerSolution from './ReducerSolution';
+import ShoppingListUsingReducer from './useReducerExample';
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
       <ReducerProblem />
       <br />
       <ReducerSolution />
+      <br />
+      <ShoppingListUsingReducer />
     </>
   );
 }
