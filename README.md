@@ -20,6 +20,7 @@
 15. React memo, Hooks- useRef, useMemo, useCallback - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/15.useRef-useMemo-useCallback) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/15.useRef-useMemo-useCallback/README.md)
 16. useConsumer, useReducer & Custom Hooks - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/16.useConsumer-useReducer-customHook) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/16.useConsumer-useReducer-customHook/README.md)
 17. Redux Concepts - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/17.Redux-Concepts) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/17.Redux-Concepts/README.md)
+18. Redux Tutorial - [Code](https://github.com/duttrohan0302/acciojob-content-react/tree/master/Content/18.Redux-Tutorial) | [Redux Tutorial Demo](https://acciojob-content-redux-rotation.netlify.app) | [Notes](https://github.com/duttrohan0302/acciojob-content-react/blob/master/Content/18.Redux-Tutorial/README.md)
 
 ## Projects
 

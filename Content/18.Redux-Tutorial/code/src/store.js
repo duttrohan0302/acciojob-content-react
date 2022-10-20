@@ -1,6 +1,8 @@
-import { createStore } from "redux";
+import { createStore, applyMiddleware, compose } from "redux";
 
 import combinedReducer from "./Reducers/index"
+
+const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
 const initialState = {
     counter: {
@@ -12,7 +14,7 @@ const initialState = {
 }
 
 const configureStore = (state = initialState) =>{
-    return createStore(combinedReducer,state)
+    return createStore(combinedReducer,state, composeEnhancers(applyMiddleware()))
 }
 
 export default configureStore;
